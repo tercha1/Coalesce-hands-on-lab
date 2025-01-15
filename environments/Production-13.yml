@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "13"
+mappingDefinitions:
+  SRC:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  WORK:
+    database: CHAN
+    schema: WORKPROD
+name: Production
+type: Environment
